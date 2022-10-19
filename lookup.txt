@@ -1,0 +1,4 @@
+getAttribute  in js
+maxLength in html
+
+how we use span and use innertext instead of using para  then innerHtml
